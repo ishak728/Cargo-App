@@ -40,19 +40,10 @@ https://github.com/user-attachments/assets/087fad03-0a12-47a4-a91f-bb51593d0d5f
 
 
 
-
-
-
-## Screenshots
-Include screenshots to give users a preview of the app:
-- **Home Screen**: ![Home Screen](link-to-screenshot)
-- **Real-Time Tracking**: ![Tracking Screen](link-to-screenshot)
-- **Chat Interface**: ![Chat Screen](link-to-screenshot)
-
 ## Installation
 This project does not include the source code, so no installation steps are provided. You can download and start using the iBoxt app directly from the App Store:
 - [Download iBoxt on the App Store](https://apps.apple.com/app/id6624296780)
-- [Download iBoxt Driver on the App Store](link-to-driver-app)
+- [Download iBoxt Driver on the App Store](https://apps.apple.com/app/id6636550631)
 
 ## Usage
 iBoxt is user-friendly and designed to make cargo transportation as simple and secure as possible. Whether you're a sender or a driver, the app provides all the tools you need to communicate, track, and manage your shipments in real-time.
