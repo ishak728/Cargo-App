@@ -23,6 +23,17 @@ Include screenshots to give users a preview of the app:
 - **Real-Time Tracking**: ![Tracking Screen](link-to-screenshot)
 - **Chat Interface**: ![Chat Screen](link-to-screenshot)
 
+
+https://github.com/user-attachments/assets/08ef8cbb-0d44-4b2e-843a-cf42bee6ba60
+
+https://github.com/user-attachments/assets/4827f3a4-9189-41be-9c3f-b8a242b5a447
+
+https://github.com/user-attachments/assets/087fad03-0a12-47a4-a91f-bb51593d0d5f
+
+https://github.com/user-attachments/assets/0caf061d-fa0b-4c97-a1db-9706da8d5153
+
+
+
 ## Installation
 This project does not include the source code, so no installation steps are provided. You can download and start using the iBoxt app directly from the App Store:
 - [Download iBoxt on the App Store](https://apps.apple.com/app/id6624296780)
