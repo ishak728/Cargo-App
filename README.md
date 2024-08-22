@@ -22,11 +22,13 @@
 
 ## Technologies Used
 - **React Native**: For building the mobile application.
+- **JavaScript**: Primary programming language used for both front-end and back-end development.
 - **Node.js**: Backend server for managing requests and data.
 - **MongoDB**: Database for storing user data securely.
 - **Socket.io**: To enable real-time messaging between users and drivers.
 - **Google Maps API**: For displaying maps and real-time tracking of cargo.
 - **Stripe**: Integrated for secure payment processing.
+- **Heroku**: Used for deploying the backend server and managing the application's hosting needs.
 
 
 
