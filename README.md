@@ -13,12 +13,14 @@
 - **In-App Messaging**: Communicate directly with drivers through the app using Socket.io for real-time messaging.
 - **Photo Updates**: Drivers can send photos of the cargo at various stages, giving users peace of mind regarding the safety and condition of their shipments.
 - **Secure Payments**: Make secure payments through the app using Stripe integration.
+- [Download iBoxt on the App Store](https://apps.apple.com/app/id6624296780)
 
 ### iBoxt Driver (For Drivers)
 - **Request Management**: Accept and manage transport requests from customers.
 - **Cargo Updates**: Send photo updates to customers at key stages of the delivery process.
 - **Route Optimization**: Utilize Google Maps API for efficient route planning.
 - **Earnings Overview**: Keep track of earnings and receive payments securely through Stripe.
+- [Download iBoxt Driver on the App Store](https://apps.apple.com/app/id6636550631)
 
 ## Technologies Used
 - **React Native**: For building the mobile application.
