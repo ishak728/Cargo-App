@@ -1,4 +1,14 @@
-# iBoxt - Cargo Transportation Service
+# iBoxt - 🚚 Cargo Transportation Service 🚛
+
+- Sole developer responsible for building, deploying, and maintaining both iBoxt and iBoxt Driver apps, available on the App Store.
+- Built both apps from scratch using React Native, Node.js, and MongoDB.
+- Developed and implemented key features including real-time cargo tracking with Socket.IO, secure payments with Stripe, and in-app messaging. 
+- Designed and integrated the backend with Express.js, handling data management with MongoDB.
+- Utilized Expo for streamlined development and testing, leading to efficient iterations.
+- Deployed and managed backend services using Heroku, ensuring seamless operations.
+- Managed the entire app lifecycle, from development through deployment and ongoing maintenance.
+
+
 
 ## Overview
 **iBoxt** is a comprehensive mobile application designed to provide seamless cargo transportation services across the entire USA. Users can easily create transport requests, communicate with drivers, track their cargo in real-time, and ensure the security of their shipments through photo updates provided by the driver.
